@@ -1,0 +1,40 @@
+.company_wrapper {
+  width: 60%;
+  margin: 0 auto;
+}
+.company_inner {
+  background-color: #eee;
+  padding: 8% 0;
+}
+
+.company_inner_inner {
+  width: 80%;
+  background: #fff;
+  margin: auto;
+}
+
+.company_list {
+  padding: 5% 5%;
+}
+
+.company_item span {
+  display: inline-block;
+  width: 20%;
+  font-size: 1.25em;
+  border-bottom: 1px solid #444;
+  line-height: 1.5;
+  padding: 4% 0 4% 2%;
+}
+
+.company_item p {
+  display: inline-block;
+  width: 70%;
+  border-bottom: 1px solid #ccc;
+  line-height: 1.8;
+  padding: 4% 0 4% 2%;
+  margin-left: 5%;
+}
+
+.map_link {
+  color: #ff8856;
+}
